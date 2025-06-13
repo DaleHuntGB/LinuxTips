@@ -49,3 +49,6 @@ StartupWMClass=battle.net.exe
 ## Arch Specific:
 - `pacman -Q | wc -l` will list the number of installed packages.
 - `pacman -Qqdt` will list all orphaned packages.
+
+# File Manager Tips
+- `Ctrl + L` will access the address bar > `admin:/` will enter root mode.
